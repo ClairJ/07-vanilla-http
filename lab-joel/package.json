@@ -1,0 +1,20 @@
+{
+  "name": "lab-joel",
+  "version": "1.0.0",
+  "description": "Creating a http server with get put post commands",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "joel clair",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.1.4"
+  },
+  "dependencies": {
+    "cowsay": "^1.2.1"
+  }
+}
